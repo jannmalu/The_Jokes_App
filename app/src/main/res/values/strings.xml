@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokesApp</string>
+    <string name="button_text">What is the secret of comedy?</string>
+    <string name="button_response">Timing my friend!</string>
+</resources>
